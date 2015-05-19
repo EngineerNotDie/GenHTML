@@ -1,0 +1,6 @@
+c:\users\александр\documents\visual studio 2013\Projects\HTMLGen\HTMLGen\bin\Debug\HTMLGen.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\HTMLGen\HTMLGen\obj\Debug\HTMLGen.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\HTMLGen\HTMLGen\bin\Debug\HTMLGen.exe
+c:\users\александр\documents\visual studio 2013\Projects\HTMLGen\HTMLGen\bin\Debug\HTMLGen.pdb
+c:\users\александр\documents\visual studio 2013\Projects\HTMLGen\HTMLGen\obj\Debug\HTMLGen.exe
+c:\users\александр\documents\visual studio 2013\Projects\HTMLGen\HTMLGen\obj\Debug\HTMLGen.pdb
